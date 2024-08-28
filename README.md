@@ -1,5 +1,5 @@
 # Portfolio Profit Calculation
-
+Readme writing by chatgpt but coding was made by matiasizm
 ## Overview
 
 This project is a simple C++ program that models a financial portfolio containing stocks and provides functionality to calculate the profit of the portfolio over a given period. The program can also calculate the annualized return or profit for each year within the specified date range.
@@ -48,3 +48,5 @@ To compile the project, use the following command:
 
 ```bash
 g++ -std=c++17 main.cpp Portfolio.cpp Stock.cpp StockAPI.cpp -o PortfolioApp -lcurl
+
+
